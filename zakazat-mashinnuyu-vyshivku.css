@@ -1,0 +1,27 @@
+#image1
+{
+	position:absolute;
+	left:250px;
+	top:1870px;
+	width:500px;
+	height:170px;
+	z-index:4;
+}
+#text1
+{
+	position:absolute;
+	left:0px;
+	top:275px;
+	width:990px;
+	height:1750px;
+	background-color:#FFFFFF;
+	padding:5px;
+}
+#image2
+{
+	position:absolute;
+	left:295px;
+	top:1680px;
+	width:411px;
+	height:129px;
+}

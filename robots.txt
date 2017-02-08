@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: 
+Disallow: /404.html
+
+User-agent: Yandex
+Disallow:
+Host: vyshyvka.ltd.ua
+Sitemap: http://vyshyvka.ltd.ua/sitemap.xml

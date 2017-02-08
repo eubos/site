@@ -1,0 +1,42 @@
+#text1
+{
+	position:absolute;
+	left:0px;
+	top:827px;
+	width:990px;
+	height:1600px;
+	background-color:#FFFFFF;
+	padding:5px;
+}
+#image1
+{
+	position:absolute;
+	left:295px;
+	top:2080px;
+	width:411px;
+	height:129px;
+}
+#image2
+{
+	position:absolute;
+	left:500px;
+	top:275px;
+	width:500px;
+	height:552px;
+}
+#image3
+{
+	position:absolute;
+	left:250px;
+	top:2280px;
+	width:500px;
+	height:170px;
+}
+#image4
+{
+	position:absolute;
+	left:0px;
+	top:275px;
+	width:500px;
+	height:552px;
+}

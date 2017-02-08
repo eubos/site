@@ -1,0 +1,49 @@
+
+#RollOverText p
+{
+   color: #FFFFFF;
+   
+   font-size: 19px;
+   margin: 0;
+   padding: 0px 50px 0px 50px;
+   text-align: center;
+}
+#RollOverText a
+{
+   display: inline-block;
+   
+   font-size: 13px;
+   font-weight: normal;
+   font-style: normal;
+   color: #FFFFFF;
+   padding: 0px 50px 50px 50px;
+   text-decoration: underline;
+}
+#RollOverText .title
+{
+   text-align: center;
+   padding: 50px 50px 0px 50px;
+   
+   font-size: 24px;
+   font-weight: bold;
+   color: #FFFFFF;
+}
+#RollOverText
+{
+   float: left;
+   background: #3B444B;
+   text-align: center;
+   border-width: 0;
+   position: relative; 
+   width:333px;
+   height:333px;
+   z-index:3;
+}
+#RollOverText img
+{
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
